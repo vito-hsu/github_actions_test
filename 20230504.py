@@ -19,3 +19,4 @@ def test_2():
     a = 2 + 2
     b = 4 + 4
     assert a < b
+
